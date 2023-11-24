@@ -1,0 +1,21 @@
+
+.clock {
+    text-align: center;
+    margin-top: 1rem;
+    margin-left:31rem;
+    font-size: 3rem;
+    border: 2.5px solid;
+    box-shadow: 3px 3px 3px 3px gainsboro;
+    background: linear-gradient(to right, #43c6ac, #f8ffae);
+    width: 300px;
+    border-radius: 20px;
+  }
+  h1{
+    margin-top: 12rem;
+    margin-left:34.5rem;
+
+  }
+  .clock .txt{
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
